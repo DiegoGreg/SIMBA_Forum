@@ -1,4 +1,4 @@
-# SIMBA_Forum
+# SIMBA#_Forum
 SIMBA# Forum für den Wissensaustausch (gegründet von Diego Gregorio und Martin Wettstein, 2021). 
 
 ### 1. Ziel
