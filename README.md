@@ -2,7 +2,7 @@
 SIMBA# Forum für den Wissensaustausch (gegründet von Diego Gregorio und Martin Wettstein, 2021). 
 
 ### 1. Ziel
-Ziel ist, dass zukünftige und bestehende SIMBA#-Anwender von einer konsolidierten und wachsenden Wissensbasis profitieren können, ohne immer wieder die gleichen Fragen stellen zu müssen. Insbesondere geeignet für die Betreuung von z.B. ETH Masterarbeiten.
+Ziel ist, dass zukünftige und bestehende SIMBA#-Anwender von einer konsolidierten und wachsenden Wissensbasis profitieren können, ohne wiederholt die gleichen Fragen stellen zu müssen. Insbesondere geeignet für die Betreuung von z.B. ETH Masterarbeiten.
 
 
 ### 2. Benutzung
