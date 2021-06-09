@@ -6,4 +6,4 @@ Ziel ist, dass zukünftige und bestehende SIMBA#-Anwender von einer konsolidiert
 
 
 ### 2. Benutzung
-Gehe unter ***DISCUSSIONS*** um bestehende Diskussionen zu lesen und daran teilzunehmen, oder erstelle neue, falls du z.B. eine Frage hast, die nicht thematisiert wurde.
+Gehe unter [***DISCUSSIONS***](https://github.com/DiegoGreg/SIMBA_Forum/discussions) um bestehende Diskussionen zu lesen und daran teilzunehmen, oder erstelle neue, falls du z.B. eine Frage hast, die nicht thematisiert wurde.
